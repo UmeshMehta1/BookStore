@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "name": "Money Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334860.jpg?t=st=1713180152~exp=1713183752~hmac=c805a947dda20d7ef6f8aca43a458bdc3a3af45789e62775e6d0f71a894cbac9&w=740"
+    },
+
+    {
+        "id": 2,
+        "name": "Speaking Skill",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 200,
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334860.jpg?t=st=1713180152~exp=1713183752~hmac=c805a947dda20d7ef6f8aca43a458bdc3a3af45789e62775e6d0f71a894cbac9&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Medation Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334860.jpg?t=st=1713180152~exp=1713183752~hmac=c805a947dda20d7ef6f8aca43a458bdc3a3af45789e62775e6d0f71a894cbac9&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Joke Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334860.jpg?t=st=1713180152~exp=1713183752~hmac=c805a947dda20d7ef6f8aca43a458bdc3a3af45789e62775e6d0f71a894cbac9&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Technology Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334860.jpg?t=st=1713180152~exp=1713183752~hmac=c805a947dda20d7ef6f8aca43a458bdc3a3af45789e62775e6d0f71a894cbac9&w=740"
+    },
+    {
+        "id": 6,
+        "name": "Yoga Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334860.jpg?t=st=1713180152~exp=1713183752~hmac=c805a947dda20d7ef6f8aca43a458bdc3a3af45789e62775e6d0f71a894cbac9&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Business Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 1000,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334860.jpg?t=st=1713180152~exp=1713183752~hmac=c805a947dda20d7ef6f8aca43a458bdc3a3af45789e62775e6d0f71a894cbac9&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Dance Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334860.jpg?t=st=1713180152~exp=1713183752~hmac=c805a947dda20d7ef6f8aca43a458bdc3a3af45789e62775e6d0f71a894cbac9&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Song Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334860.jpg?t=st=1713180152~exp=1713183752~hmac=c805a947dda20d7ef6f8aca43a458bdc3a3af45789e62775e6d0f71a894cbac9&w=740"
+    },
+    {
+        "id": 10,
+        "name": "History Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 500,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334860.jpg?t=st=1713180152~exp=1713183752~hmac=c805a947dda20d7ef6f8aca43a458bdc3a3af45789e62775e6d0f71a894cbac9&w=740"
+
+    }
+]
