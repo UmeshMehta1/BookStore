@@ -2,8 +2,7 @@ import React, { useState, useEffect, useContext } from 'react'
 import { Link } from 'react-router-dom';
 import Login from './Login';
 import  {useAuth}  from './context/AuthProvider';
-import Logout from './Logout';
-// import { AuthContext } from './context/AuthProvider';
+import Logout from './Logout'
 
 function Navbar() {
   const [theme, setTheme] = useState(localStorage.getItem('theme') ? localStorage.getItem('theme') : "dark")
